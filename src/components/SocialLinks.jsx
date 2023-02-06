@@ -43,7 +43,7 @@ const SocialLinks = () => {
           <BsAt size={30} />
         </>
       ),
-      href: "mailto:foo@gmail.com",
+      href: "service@everflow.live",
       style: "rounded-br-md",
     },
   ];
